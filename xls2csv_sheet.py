@@ -1,5 +1,6 @@
 import pandas as pd
 
+#Convert specific sheets to CSV files with the name of the sheets.
 excel_files = ["IN718_final.xlsx", "Ti6Al4V_final.xlsx", "316_final.xlsx"]
 
 for excel_file in excel_files:
